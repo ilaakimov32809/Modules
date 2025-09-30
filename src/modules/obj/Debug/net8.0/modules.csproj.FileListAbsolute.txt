@@ -1,0 +1,14 @@
+C:\Users\Azerty\source\repos\modules\bin\Debug\net8.0\modules.exe
+C:\Users\Azerty\source\repos\modules\bin\Debug\net8.0\modules.deps.json
+C:\Users\Azerty\source\repos\modules\bin\Debug\net8.0\modules.runtimeconfig.json
+C:\Users\Azerty\source\repos\modules\bin\Debug\net8.0\modules.dll
+C:\Users\Azerty\source\repos\modules\bin\Debug\net8.0\modules.pdb
+C:\Users\Azerty\source\repos\modules\obj\Debug\net8.0\modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azerty\source\repos\modules\obj\Debug\net8.0\modules.AssemblyInfoInputs.cache
+C:\Users\Azerty\source\repos\modules\obj\Debug\net8.0\modules.AssemblyInfo.cs
+C:\Users\Azerty\source\repos\modules\obj\Debug\net8.0\modules.csproj.CoreCompileInputs.cache
+C:\Users\Azerty\source\repos\modules\obj\Debug\net8.0\modules.dll
+C:\Users\Azerty\source\repos\modules\obj\Debug\net8.0\refint\modules.dll
+C:\Users\Azerty\source\repos\modules\obj\Debug\net8.0\modules.pdb
+C:\Users\Azerty\source\repos\modules\obj\Debug\net8.0\modules.genruntimeconfig.cache
+C:\Users\Azerty\source\repos\modules\obj\Debug\net8.0\ref\modules.dll
